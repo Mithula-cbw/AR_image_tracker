@@ -1,0 +1,2 @@
+C:\Users\Mithula\Documents\Projects\AR\AR_Image_Tracker\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Mithula\Documents\Projects\AR\AR_Image_Tracker\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
